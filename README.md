@@ -2,6 +2,8 @@
 
 이미지 따라하고 C 프로그램을 작성하세요.
 
+[링크리스트 예시](https://github.com/aaronkr-classroom/13-structs-linked-lists-jekkilekki/blob/main/Week%2013/linked_list.c) - 이 파일 수정하면 됩니다 (예를들어, AddNumber()함수는 AddStudent()으로 변경해도 됩니다).
+
 ![Final](final.png)
 
 다음 이미지는 struct 예시입니다. 비슷한 Student `struct` 만들어주세요.
